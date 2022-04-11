@@ -113,6 +113,6 @@ SpacesInCStyleCastParentheses: false
 SpacesInParentheses: false
 SpacesInSquareBrackets: false
 Standard: Cpp03
+BasedOnStyle: LLVM
 TabWidth: 4
-UseTab: Always
-...
+
